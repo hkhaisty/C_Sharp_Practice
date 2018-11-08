@@ -1,0 +1,11 @@
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\bin\Debug\netcoreapp2.0\SubsetApp_Harry.deps.json
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\bin\Debug\netcoreapp2.0\SubsetApp_Harry.runtimeconfig.json
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\bin\Debug\netcoreapp2.0\SubsetApp_Harry.runtimeconfig.dev.json
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\bin\Debug\netcoreapp2.0\SubsetApp_Harry.dll
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\bin\Debug\netcoreapp2.0\SubsetApp_Harry.pdb
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.csprojAssemblyReference.cache
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.AssemblyInfoInputs.cache
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.AssemblyInfo.cs
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.dll
+C:\Users\harriet\source\repos\SubsetApp_Harry\SubsetApp_Harry\obj\Debug\netcoreapp2.0\SubsetApp_Harry.pdb

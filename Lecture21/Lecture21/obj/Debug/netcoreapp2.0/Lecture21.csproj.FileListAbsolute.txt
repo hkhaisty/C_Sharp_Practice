@@ -1,0 +1,11 @@
+C:\Users\harriet\source\repos\Lecture21\Lecture21\bin\Debug\netcoreapp2.0\Lecture21.deps.json
+C:\Users\harriet\source\repos\Lecture21\Lecture21\bin\Debug\netcoreapp2.0\Lecture21.runtimeconfig.json
+C:\Users\harriet\source\repos\Lecture21\Lecture21\bin\Debug\netcoreapp2.0\Lecture21.runtimeconfig.dev.json
+C:\Users\harriet\source\repos\Lecture21\Lecture21\bin\Debug\netcoreapp2.0\Lecture21.dll
+C:\Users\harriet\source\repos\Lecture21\Lecture21\bin\Debug\netcoreapp2.0\Lecture21.pdb
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.csprojAssemblyReference.cache
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.AssemblyInfoInputs.cache
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.AssemblyInfo.cs
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.dll
+C:\Users\harriet\source\repos\Lecture21\Lecture21\obj\Debug\netcoreapp2.0\Lecture21.pdb

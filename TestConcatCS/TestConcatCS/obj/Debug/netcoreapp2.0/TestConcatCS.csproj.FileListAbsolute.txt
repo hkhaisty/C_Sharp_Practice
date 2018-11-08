@@ -1,0 +1,11 @@
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.csprojAssemblyReference.cache
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.AssemblyInfoInputs.cache
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.AssemblyInfo.cs
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\bin\Debug\netcoreapp2.0\TestConcatCS.deps.json
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\bin\Debug\netcoreapp2.0\TestConcatCS.runtimeconfig.json
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\bin\Debug\netcoreapp2.0\TestConcatCS.runtimeconfig.dev.json
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\bin\Debug\netcoreapp2.0\TestConcatCS.dll
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\bin\Debug\netcoreapp2.0\TestConcatCS.pdb
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.dll
+C:\Users\harriet\source\repos\TestConcatCS\TestConcatCS\obj\Debug\netcoreapp2.0\TestConcatCS.pdb

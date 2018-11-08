@@ -1,0 +1,10 @@
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\bin\Debug\TestingIconsHarry.exe.config
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\bin\Debug\TestingIconsHarry.exe
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\bin\Debug\TestingIconsHarry.pdb
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.csprojAssemblyReference.cache
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.Form1.resources
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.Properties.Resources.resources
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.csproj.GenerateResource.cache
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.exe
+C:\Users\harriet\source\repos\TestingIconsHarry\TestingIconsHarry\obj\Debug\TestingIconsHarry.pdb

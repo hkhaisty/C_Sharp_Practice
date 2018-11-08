@@ -1,0 +1,10 @@
+C:\Users\harriet\source\repos\Lecture18\Lecture18\bin\Debug\netcoreapp2.0\Lecture18.deps.json
+C:\Users\harriet\source\repos\Lecture18\Lecture18\bin\Debug\netcoreapp2.0\Lecture18.runtimeconfig.json
+C:\Users\harriet\source\repos\Lecture18\Lecture18\bin\Debug\netcoreapp2.0\Lecture18.runtimeconfig.dev.json
+C:\Users\harriet\source\repos\Lecture18\Lecture18\bin\Debug\netcoreapp2.0\Lecture18.dll
+C:\Users\harriet\source\repos\Lecture18\Lecture18\bin\Debug\netcoreapp2.0\Lecture18.pdb
+C:\Users\harriet\source\repos\Lecture18\Lecture18\obj\Debug\netcoreapp2.0\Lecture18.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\Lecture18\Lecture18\obj\Debug\netcoreapp2.0\Lecture18.AssemblyInfoInputs.cache
+C:\Users\harriet\source\repos\Lecture18\Lecture18\obj\Debug\netcoreapp2.0\Lecture18.AssemblyInfo.cs
+C:\Users\harriet\source\repos\Lecture18\Lecture18\obj\Debug\netcoreapp2.0\Lecture18.dll
+C:\Users\harriet\source\repos\Lecture18\Lecture18\obj\Debug\netcoreapp2.0\Lecture18.pdb

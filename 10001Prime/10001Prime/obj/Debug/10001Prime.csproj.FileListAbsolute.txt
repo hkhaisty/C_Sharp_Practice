@@ -1,0 +1,7 @@
+c:\users\harriet\source\repos\10001Prime\10001Prime\obj\Debug\10001Prime.csprojAssemblyReference.cache
+c:\users\harriet\source\repos\10001Prime\10001Prime\obj\Debug\10001Prime.csproj.CoreCompileInputs.cache
+c:\users\harriet\source\repos\10001Prime\10001Prime\bin\Debug\10001Prime.exe.config
+c:\users\harriet\source\repos\10001Prime\10001Prime\bin\Debug\10001Prime.exe
+c:\users\harriet\source\repos\10001Prime\10001Prime\bin\Debug\10001Prime.pdb
+c:\users\harriet\source\repos\10001Prime\10001Prime\obj\Debug\10001Prime.exe
+c:\users\harriet\source\repos\10001Prime\10001Prime\obj\Debug\10001Prime.pdb

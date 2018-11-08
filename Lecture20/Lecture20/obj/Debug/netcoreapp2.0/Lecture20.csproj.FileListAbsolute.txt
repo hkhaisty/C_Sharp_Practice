@@ -1,0 +1,11 @@
+C:\Users\harriet\source\repos\Lecture20\Lecture20\bin\Debug\netcoreapp2.0\Lecture20.deps.json
+C:\Users\harriet\source\repos\Lecture20\Lecture20\bin\Debug\netcoreapp2.0\Lecture20.runtimeconfig.json
+C:\Users\harriet\source\repos\Lecture20\Lecture20\bin\Debug\netcoreapp2.0\Lecture20.runtimeconfig.dev.json
+C:\Users\harriet\source\repos\Lecture20\Lecture20\bin\Debug\netcoreapp2.0\Lecture20.dll
+C:\Users\harriet\source\repos\Lecture20\Lecture20\bin\Debug\netcoreapp2.0\Lecture20.pdb
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.csprojAssemblyReference.cache
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.csproj.CoreCompileInputs.cache
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.AssemblyInfoInputs.cache
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.AssemblyInfo.cs
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.dll
+C:\Users\harriet\source\repos\Lecture20\Lecture20\obj\Debug\netcoreapp2.0\Lecture20.pdb
