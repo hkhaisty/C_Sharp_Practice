@@ -1,0 +1,11 @@
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\bin\Debug\netcoreapp2.0\Paycheck_Application.deps.json
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\bin\Debug\netcoreapp2.0\Paycheck_Application.runtimeconfig.json
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\bin\Debug\netcoreapp2.0\Paycheck_Application.runtimeconfig.dev.json
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\bin\Debug\netcoreapp2.0\Paycheck_Application.dll
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\bin\Debug\netcoreapp2.0\Paycheck_Application.pdb
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.csprojAssemblyReference.cache
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.csproj.CoreCompileInputs.cache
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.AssemblyInfoInputs.cache
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.AssemblyInfo.cs
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.dll
+c:\users\harriet\source\repos\Paycheck_Application\Paycheck_Application\obj\Debug\netcoreapp2.0\Paycheck_Application.pdb

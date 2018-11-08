@@ -1,0 +1,10 @@
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\bin\Debug\netcoreapp2.0\Chap12Part6.deps.json
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\bin\Debug\netcoreapp2.0\Chap12Part6.runtimeconfig.json
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\bin\Debug\netcoreapp2.0\Chap12Part6.runtimeconfig.dev.json
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\bin\Debug\netcoreapp2.0\Chap12Part6.dll
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\bin\Debug\netcoreapp2.0\Chap12Part6.pdb
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\obj\Debug\netcoreapp2.0\Chap12Part6.csproj.CoreCompileInputs.cache
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\obj\Debug\netcoreapp2.0\Chap12Part6.AssemblyInfoInputs.cache
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\obj\Debug\netcoreapp2.0\Chap12Part6.AssemblyInfo.cs
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\obj\Debug\netcoreapp2.0\Chap12Part6.dll
+c:\users\harriet\source\repos\Chap12Part6\Chap12Part6\obj\Debug\netcoreapp2.0\Chap12Part6.pdb

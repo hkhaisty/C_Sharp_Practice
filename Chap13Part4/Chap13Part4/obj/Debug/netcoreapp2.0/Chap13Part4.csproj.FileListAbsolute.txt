@@ -1,0 +1,11 @@
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\bin\Debug\netcoreapp2.0\Chap13Part4.deps.json
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\bin\Debug\netcoreapp2.0\Chap13Part4.runtimeconfig.json
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\bin\Debug\netcoreapp2.0\Chap13Part4.runtimeconfig.dev.json
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\bin\Debug\netcoreapp2.0\Chap13Part4.dll
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\bin\Debug\netcoreapp2.0\Chap13Part4.pdb
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.csprojAssemblyReference.cache
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.csproj.CoreCompileInputs.cache
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.AssemblyInfoInputs.cache
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.AssemblyInfo.cs
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.dll
+c:\users\harriet\source\repos\Chap13Part4\Chap13Part4\obj\Debug\netcoreapp2.0\Chap13Part4.pdb
